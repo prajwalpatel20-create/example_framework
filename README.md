@@ -11,7 +11,7 @@ This project automates login page testing using Playwright with TypeScript. It f
 ## 🏗️ Project Structure
 
 ```
-noventiq_test_login/
+test_login/
 ├── actions/                      # Reusable web action utilities
 │   └── webActions.ts             # Common browser interactions (click, fill, getText, fluentWait)
 ├── fixtures/                     # Playwright custom fixtures
